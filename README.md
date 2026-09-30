@@ -36,6 +36,8 @@ I help startups, SaaS and AI teams **cut cloud costs** and run infrastructure th
 
 - [kubernetes-http-request-hpa](https://github.com/sajedul5/kubernetes-http-request-hpa) — event-driven autoscaling on live HTTP traffic with KEDA, Prometheus and Grafana: scale on real demand instead of over-provisioning
 - [terraform-aws](https://github.com/sajedul5/terraform-aws) — Terraform on AWS: reusable modules, S3 remote state with locking, blue-green and serverless deployments
+- [terraform-aws-webapp-cicd-demo](https://github.com/sajedul5/terraform-aws-webapp-cicd-demo) — fully automated delivery: Terraform-provisioned EC2, Docker Hub images and GitHub Actions CI/CD
+- [opentelemetry-jaeger-kubernetes](https://github.com/sajedul5/opentelemetry-jaeger-kubernetes) — distributed tracing on Kubernetes with the OpenTelemetry Collector and Jaeger
 
 ## Tools
 
