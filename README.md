@@ -35,16 +35,18 @@ I help startups, SaaS and AI teams **cut cloud costs** and run infrastructure th
 ## Projects
 
 - [kubernetes-http-request-hpa](https://github.com/sajedul5/kubernetes-http-request-hpa) — event-driven autoscaling on live HTTP traffic with KEDA, Prometheus and Grafana: scale on real demand instead of over-provisioning
-- [terraform-aws](https://github.com/sajedul5/terraform-aws) — Terraform on AWS: reusable modules, S3 remote state with locking, blue-green and serverless deployments
-- [terraform-aws-webapp-cicd-demo](https://github.com/sajedul5/terraform-aws-webapp-cicd-demo) — fully automated delivery: Terraform-provisioned EC2, Docker Hub images and GitHub Actions CI/CD
+- [terraform-aws-infra-github-actions](https://github.com/sajedul5/terraform-aws-infra-github-actions) — dev/test/prod AWS infrastructure with Terraform and GitHub Actions; keyless OIDC access to AWS, no stored credentials
+- [aws-3-tier-architecture-terraform](https://github.com/sajedul5/aws-3-tier-architecture-terraform) — production-style 3-tier AWS architecture: VPC, public and internal ALBs, Auto Scaling Groups, NAT Gateways and RDS
 - [opentelemetry-jaeger-kubernetes](https://github.com/sajedul5/opentelemetry-jaeger-kubernetes) — distributed tracing on Kubernetes with the OpenTelemetry Collector and Jaeger
+
+**Currently building (FinOps):** [aws-cost-waste-finder](https://github.com/sajedul5/aws-cost-waste-finder) · [aws-finops-guardrails](https://github.com/sajedul5/aws-finops-guardrails) · [gpu-ai-workload-cost-optimizer](https://github.com/sajedul5/gpu-ai-workload-cost-optimizer)
 
 ## Tools
 
 **Cost / FinOps:** AWS Cost Explorer · Savings Plans · Reserved Instances · Spot · GCP billing reports\
 **Cloud:** AWS (EC2 incl. GPU, EKS, S3, IAM, VPC, CloudWatch) · Google Cloud (Compute Engine, GKE, Cloud Storage, IAM)\
-**IaC & CI/CD:** Terraform · GitHub Actions · Jenkins · Bitbucket Pipelines · ArgoCD · Helm\
-**Containers:** Docker · Kubernetes (EKS, GKE, self-managed multi-master)\
+**IaC & CI/CD:** Terraform · GitHub Actions (OIDC) · Jenkins · Bitbucket Pipelines · ArgoCD · Helm\
+**Containers:** Docker · Kubernetes (EKS, GKE, self-managed multi-master) · KEDA\
 **Observability:** Prometheus · Grafana · ELK · OpenTelemetry · Datadog\
 **Scripting & data:** Python · Shell · Node.js · MySQL · PostgreSQL · MongoDB Atlas
 
