@@ -2,7 +2,7 @@
 
 I help startups, SaaS and AI teams **cut cloud costs** and run infrastructure that is **reliable, secure and automated**.
 
-**Remote from Dhaka, Bangladesh · Available 9am–5pm AEST/AEDT (Australian business hours)**\
+**Remote from Dhaka, Bangladesh · Available in Australian business hours**\
 **AWS Solutions Architect – Associate · Google Cloud Professional Cloud Architect · 5 years in DevOps, 6 in tech**
 
 📅 [Book a free 20-minute AWS cost review](https://calendly.com/sajedul-islam-devops/free-20-min-aws-cost-review) · [LinkedIn](https://www.linkedin.com/in/sajedul-islam-devops) · [Certifications on Credly](https://www.credly.com/users/md-sajedul-islam-devops)
